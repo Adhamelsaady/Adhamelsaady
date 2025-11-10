@@ -11,25 +11,23 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://x.com/Adhamelsaady74" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (X)"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/adham-elsaady-985173271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+  <a href="https://www.facebook.com/adham.elsaady.9/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://codeforces.com/profile/YOUR_HANDLE" target="_blank">
+  <a href="https://codeforces.com/profile/AdhamElsaady" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://leetcode.com/YOUR_HANDLE" target="_blank">
+  <a href="https://leetcode.com/u/Adham_Elsaady/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white" alt="LeetCode"/>
   </a>
-  <a href="https://atcoder.jp/users/YOUR_HANDLE" target="_blank">
+  <a href="https://atcoder.jp/users/elsaady74" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-2c2c2c?logo=atcoder&logoColor=white" alt="AtCoder"/>
   </a>
 </p>
 
 ---
-
-<h3 align="center">💡 "Clean logic. Smart design. Always improving."</h3>
