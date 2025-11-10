@@ -11,7 +11,7 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://x.com/Adhamelsaady74" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (X)"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://www.linkedin.com/in/adham-elsaady-985173271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
