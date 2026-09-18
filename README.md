@@ -2,11 +2,11 @@
 <h1 align="center">Adham Elsaady</h1>
 
 <p align="center">
-   Software Engineer · 2× ICPC Regional Finalist (ACPC) · Ex ICPC Mansoura technical head
+   Software Engineer  ·  2× ICPC Regional Finalist (ACPC)  ·  Ex ICPC Mansoura technical head
 </p>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/adhamelsaady/)">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/adhamelsaady/">LinkedIn</a>
   ·
   <a href="https://codeforces.com/profile/AdhamElsaady">Codeforces</a>
   ·
