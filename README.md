@@ -2,7 +2,7 @@
 <h1 align="center">Adham Elsaady</h1>
 
 <p align="center">
-   Software Engineer  ·  2× ICPC Regional Finalist (ACPC)  ·  Ex ICPC Mansoura technical head
+   Software Engineer || 2× ICPC Regional Finalist (ACPC) || Ex ICPC Mansoura Technical Head
 </p>
 
 <p align="center">
